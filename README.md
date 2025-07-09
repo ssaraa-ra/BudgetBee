@@ -4,19 +4,19 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### ✅ User Authentication
+### User Authentication
 - Register, log in, and log out securely.
 
-### ✅ Profile Management
+### Profile Management
 - Update your name, email, and profile picture.
 
-### ✅ Expense Dashboard
+### Expense Dashboard
 - Add, edit, and delete daily expenses.
 - Categorize expenses easily.
 
-### ✅ Full Expense Report
+### Full Expense Report
 - View yearly expense summaries.
 - Analyze spending by category with graphs.
 
