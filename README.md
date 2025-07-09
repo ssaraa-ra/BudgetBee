@@ -1,6 +1,6 @@
-# 🐝 BudgetBee
+#  MyMoneyPal
 
-**BudgetBee** is a simple, user-friendly expense tracking web app built with **HTML, CSS, JavaScript, PHP,** and **MySQL**. It helps users manage their finances by tracking expenses, analyzing spending patterns, and generating visual reports.
+**MyMoneyPal** is a simple, user-friendly expense tracking web app built with **HTML, CSS, JavaScript, PHP,** and **MySQL**. It helps users manage their finances by tracking expenses, analyzing spending patterns, and generating visual reports.
 
 ---
 
@@ -30,20 +30,5 @@
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repository:
-```bash
-git clone https://github.com/ssaraa-ra/budgetbee.git
-cd budgetbee
-```
-
-### 2. Set Up the Database:
-Import the provided .sql file into your MySQL database.
-
-Update database credentials in config.php (or the relevant configuration file).
-
-### 3. Run Locally:
-Use a local server environment like XAMPP or MAMP.
 
 
